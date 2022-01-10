@@ -1,0 +1,300 @@
+Name: Balloon Crusher Shoot’em all_v1.1.6_apkpure.com.xapk
+UnityVersion: 2019.4.18f1
+IL2CPP: True
+Missed: for UnityEngine.IMGUIModule.dll/UnityEngine/GUISkin
+Missed: for UnityEngine.IMGUIModule.dll/UnityEngine/GUISkin
+Missed: for UnityEngine.IMGUIModule.dll/UnityEngine/GUISkin
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRenderPipelineAsset
+Resolve4: UnityEngine.CoreModule
+Resolve4: mscorlib
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRenderPipelineAsset
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalRenderPipelineAsset
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/ForwardRendererData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/ForwardRendererData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/PostProcessData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/PostProcessData
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIntField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIntField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIntField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerValue
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerValue
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerValue
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerUIntField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerUIntField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerUIntField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerCanvas
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerCanvas
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerCanvas
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerColor
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerColor
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerColor
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerHBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerHBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerHBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerHBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerHBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerEnumField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerEnumField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerEnumField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerButton
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerButton
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerButton
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector3
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector3
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector3
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerPanel
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerPanel
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerPanel
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerGroup
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerGroup
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerGroup
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector4
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector4
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector4
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerPersistentCanvas
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerPersistentCanvas
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerPersistentCanvas
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector2
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector2
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector2
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVBox
+Resolve4: UnityEngine.PhysicsModule
+Resolve4: UnityEngine.ParticleSystemModule
+Resolve4: UnityEngine.UI
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerEnumHistory
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerEnumHistory
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerEnumHistory
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerBitField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerBitField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerBitField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerToggleHistory
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerToggleHistory
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerToggleHistory
+Resolve4: UnityEngine.AnimationModule
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIntField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerValue
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerUIntField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerCanvas
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/UIFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectFloatField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerColor
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerHBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerEnumField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerButton
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector3
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerPanel
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerGroup
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector4
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerPersistentCanvas
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVector2
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerFoldout
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerVBox
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerEnumHistory
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerIndirectToggle
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerContainer
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerBitField
+Missed: for Unity.RenderPipelines.Core.Runtime.dll/UnityEngine.Rendering.UI/DebugUIHandlerToggleHistory
+[129: PlayerSettings] string.size 1630430057 > 10_000_000 \macAppStoreCategory, buf.Position=356
+129: PlayerSettings pathID: 1
+
+Ba.Warning: pos: 356 != len: 652 for: {fileID: 0 (globalgamemanagers), pathID: 1, m_Name: , type: PlayerSettings}
+Ba.Warning: pos: 44 != len: 48 for: {fileID: 0 (globalgamemanagers), pathID: 4, m_Name: , type: AudioManager}
+Ba.Warning: pos: 232 != len: 260 for: {fileID: 0 (globalgamemanagers), pathID: 10, m_Name: , type: PhysicsManager}
+[141: BuildSettings] is_break_read3 size=1856809886  \runtimeClassHashes\Array
+141: BuildSettings pathID: 11
+
+Ba.Warning: pos: 348 != len: 26964 for: {fileID: 0 (globalgamemanagers), pathID: 11, m_Name: , type: BuildSettings}
+Resolve4: UnityEngine.UIModule
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalLightData
+Missed: for Unity.RenderPipelines.Universal.Runtime.dll/UnityEngine.Rendering.Universal/UniversalAdditionalCameraData
+Make Script DB
+Make Scripts
+Make plugins
+Check for DeObfuscate: DOTween.dll
+Check for DeObfuscate: Firebase.Analytics.dll
+Check for DeObfuscate: Firebase.App.dll
+Check for DeObfuscate: Firebase.Crashlytics.dll
+Check for DeObfuscate: Firebase.Platform.dll
+Check for DeObfuscate: Firebase.RemoteConfig.dll
+Check for DeObfuscate: Firebase.TaskExtension.dll
+Check for DeObfuscate: Google.Play.Common.dll
+Check for DeObfuscate: Google.Play.Core.dll
+Check for DeObfuscate: Google.Play.Review.dll
+Check for DeObfuscate: MaxSdk.Scripts.dll
+Check for DeObfuscate: MoreMountains.NiceVibrations.dll
+Check for DeObfuscate: MoreMountains.NiceVibrations.Haptics.dll
+Check for DeObfuscate: Unity.Compat.dll
+Check for DeObfuscate: Unity.RenderPipeline.Universal.ShaderLibrary.dll
+Check for DeObfuscate: Unity.RenderPipelines.Universal.Runtime.dll
+Find requried fix functions with empty param names, count: 3 (activate with 'Allow to de-obfuscate assembly' options)
+Assembly 'Unity.RenderPipelines.Universal.Runtime.dll' - obfuscated (for deobfuscate - activate 'Allow to de-obfuscate assembly' options)
+Check for DeObfuscate: Unity.Tasks.dll
+Make binStreamingAssets
+Write scrip db
+MakeUnityProject - end, dir: D:\Unity\balloon_error

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 515e3005670b48ad971fe74d0fea8977
+timeCreated: 1641850968
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "mplus-1c-heavy"
+  fontNames:
+  - M+ 1c
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
